@@ -1,10 +1,10 @@
-## 👋 Olá, me chamo Guilherme das Dores Francisco
-##💻 Desenvolvedor em formação
-##📖 E atualmente e evoluindo minhas habilidades em programação
-##🚀 Em busca de oportunidades para crescer na área de tecnologia  
+👋 Olá, me chamo Guilherme das Dores Francisco\n
+💻 Desenvolvedor em formação
+📖 E atualmente e evoluindo minhas habilidades em programação
+🚀 Em busca de oportunidades para crescer na área de tecnologia  
 
 
-##📊 Estatísticas do GitHub
+📊 Estatísticas do GitHub
 
  <div align="center">
    <a href="https://github.com/GuiDores/">
