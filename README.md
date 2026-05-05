@@ -1,14 +1,26 @@
 ##👋 Olá, me chamo Guilherme das Dores Francisco
-##💻 Desenvolvedor em formação 
-##📖 E atualmente e evoluindo minhas habilidades em programação 
-##🚀 Em busca de oportunidades para crescer na área de tecnologia 
+
+💻 Desenvolvedor em formação
+
+📖 E atualmente e evoluindo minhas habilidades em programação 
+
+🚀 Em busca de oportunidades para crescer na área de tecnologia 
+
+---
+
 ##📊 Estatísticas do GitHub 
-<div align="center"> 
- <a href="https://github.com/GuiDores/">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiDores&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiDores&show_icons=true&theme=radical"/> 
- </div>
+
+
+<div align="center">
  
+ <a href="https://github.com/GuiDores/">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiDores&show_icons=true&theme=radical&cache_seconds=1800"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDores&layout=compact&theme=radical&cache_seconds=1800"/>
+  
+ </div>
+  
+ ---
+  
   ##🛠️ Ferramentas que uso 
   
   <div style="display: inline_block">
