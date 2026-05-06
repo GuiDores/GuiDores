@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7AA2F7&height=200&section=header&text=Gui%20Dores&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4DA3FF&height=200&section=header&text=Gui%20Dores&fontSize=40&fontColor=2F81F7&animation=fadeIn&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=65"/>
 
 ## 👋 Olá, me chamo Guilherme das Dores Francisco
 
 <div align='center'>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=7AA2F7&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+evoluindo+🚀;Em+busca+da+primeira+oportunidade"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+evoluindo+🚀;Em+busca+da+primeira+oportunidade"/>
 
 </div>
 
@@ -26,7 +26,7 @@
   ## 🛠️ Tecnologias & Ferramentas
   
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7AA2F7&size=22&center=true&vCenter=true&width=600&lines=Minhas+tecnologias+principais;Sempre+aprendendo+coisas+novas+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Minhas+tecnologias+principais;Sempre+aprendendo+coisas+novas+🚀"/>
   
    <b>💻 Linguagens</b><br><br>
    
@@ -67,11 +67,6 @@
    </div>
    
    ---
-  
-  ## 🚀 Projetos em destaque
-  
-  - 🔹 Nome do projeto — descrição curta 
-  - 🔹 Nome do projeto — descrição curta 
   
   ## 📚 Atualmente estudando
   
