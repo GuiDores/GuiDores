@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7AA2F7&height=200&section=header&text=Gui%20Dores&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=65"/>
+
 ## 👋 Olá, me chamo Guilherme das Dores Francisco
 
 <div align='center'>
@@ -80,6 +82,8 @@
 
 ## 📫 Contatos 
 
+---
+
 ## 🪪 E-mail: guidores20@gmail.com
 
 ## 🔗 Linkedin: https://www.linkedin.com/in/guilherme-dores-256218143/
@@ -88,15 +92,6 @@
 
 ## 🎯 Objetivo Busco minha primeira oportunidade como desenvolvedor, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir constantemente.
 
-<div> 
- <a href = "mailto:guidores20@gmail.com">
- <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- </a>
- <a href="https://www.linkedin.com/in/guilherme-dores-256218143/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a> 
- 
-</div> 
-
+---
 
 ## ⭐ Obrigado por visitar meu perfil!
